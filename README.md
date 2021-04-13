@@ -1,3 +1,7 @@
+## Requirements
+```
+pip install timm==0.3.2
+```
 
 ## Checkpoints
 | In-distribution | OOD | Model | Link | 
