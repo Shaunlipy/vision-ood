@@ -1,6 +1,7 @@
 
 ## Checkpoints
-| In-distribution        | Model           | Link  | 
-| ------------- |-------------| -----| 
-| [CIFAR10 (Google Drive)]()      | resnet34 | [Google Drive (Mila account)](https://drive.google.com/file/d/1H6w3ZTMaPXcYsaDBJrgAcxSTdywTS0vZ/view?usp=sharing) |
+| In-distribution | OOD | Model | Link | 
+|-----|-----|-----|-----| 
+|[DermNet(19 classes)]() | DermNet(4 unseen) | resnet34 | [Google Drive]() |
+|[HAM10000(7 classes)]() | HAM10000(unseen MEL) | resnet34 | [Google Drive]() |
 
